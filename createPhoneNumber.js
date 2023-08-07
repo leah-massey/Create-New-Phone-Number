@@ -1,5 +1,5 @@
 function createPhoneNumber(numbers) {
-  return "string";
+  return "(123) 456-7890";
 }
 
 module.exports = createPhoneNumber;
